@@ -1,3 +1,7 @@
+# Diretórios locais do projeto
+sec003-iniciando/s03
+temp*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
